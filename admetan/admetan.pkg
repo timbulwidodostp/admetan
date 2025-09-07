@@ -1,4 +1,12 @@
-D 'eventbaseline': Eventbaseline Correct event study after xthdidregress Use eventbaseline With STATA 19
+D 'admetan': Perform meta-analysis of aggregate (summary) data Use admetan With STATA 19
 D
-F eventbaseline.ado
-F eventbaseline.sthlp
+F admetan.ado
+F admetan.sthlp
+F admetan_hlp_run.ado
+F admetani.ado
+F admetani.sthlp
+F forestplot.ado
+F forestplot.sthlp
+F labbe.ado
+F labbe.sthlp
+F lmetan.mlib
